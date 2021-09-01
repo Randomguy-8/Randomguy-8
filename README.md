@@ -1,6 +1,6 @@
 # Hi there
 <br>
-## My name: Harish Kumar
+## My name Harish Kumar
 <br>
 age: 15
 <br>
