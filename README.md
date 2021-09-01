@@ -1,6 +1,4 @@
-## My name Harish Kumar
-<br>
-
+### My name: Harish Kumar
 <br>
 age: 15
 <br>
