@@ -1,4 +1,4 @@
-### My name: Harish Kumar
+#### My name: Harish Kumar
 age: 15 
 #### things that you may want to know
 Why here? .I wished to make some cool stuf so i needed a platform that manage all that so i choosed github! 
