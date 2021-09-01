@@ -25,4 +25,4 @@ Java<br>
 php<br>
 C<br>
 
-Hopefull thats it for my profile &nbsp; c'ya
+Hopefull thats it for my profile &nbsp; c'ya!
