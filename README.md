@@ -14,4 +14,4 @@ Fox    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --  &nbsp; Anothe
 AVEA   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; A offline assistent that learn and develop on its own<br>
 Amphithere &nbsp;--  &nbsp; Just a name to all of my bash command<br>
 INGIS   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   --  &nbsp; A survival multiplayer game<br>
-etc &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -- &nbsp; (end of thking copacity)<br>
+etc &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -- &nbsp; (end of thking copacity)<br>
