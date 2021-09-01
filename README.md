@@ -15,3 +15,19 @@ AVEA   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; A offline assi
 Amphithere &nbsp;--  &nbsp; Just a name to all of my bash command<br>
 INGIS   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   --  &nbsp; A survival multiplayer game<br><br>
 etc (end of thking copacity)<br>
+
+<br>
+<br>
+### NOTE frome me
+
+BTW am just a newbie learning from other pros.<br><br>
+
+Well there are the languages that i learned recently -<br><Br>
+BASH<br>
+HTML<br>
+XML<br>
+CSS<br><br>
+And these are which am still learning -<br><Br>
+Java<br>
+php<br>
+C<br>
