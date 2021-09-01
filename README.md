@@ -12,6 +12,6 @@ well That is enough for <i>my</i> introduction but still...if you willing then:
 Oxygen &nbsp; &nbsp; &nbsp; &nbsp;  -- &nbsp;  A Android OS<br>
 Fox    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --  &nbsp; Another OS based on Android Go<br>
 AVEA   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; A offline assistent that learn and develop on its own<br>
-Aphithere&nbsp; &nbsp; &nbsp;--  &nbsp; Just a name to all of my bash command<br>
+Aphithere &nbsp; &nbsp; &nbsp;--  &nbsp; Just a name to all of my bash command<br>
 INGIS   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   --  &nbsp; A survival multiplayer game<br>
 etc(end of thking copacity)<br>
