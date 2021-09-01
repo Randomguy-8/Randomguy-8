@@ -15,12 +15,14 @@ INGIS   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   --  &nbsp; A survival multip
 etc (end of thking copacity)<br>
 ### NOTE frome me
 BTW am just a newbie, learning from other pros. current trying to get into others project so i can improve my skills.<br><br>
-<b>there are the languages that i know</b> -<br><Br>
+<b>there are the languages that i know</b> -<br>
 BASH<br>
 HTML<br>
 XML<br>
 CSS<br><br>
-And these are which am still learning -<br><Br>
+And these are which am still learning -<br>
 Java<br>
 php<br>
 C<br>
+
+Hopefull thats it!
