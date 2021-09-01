@@ -12,11 +12,10 @@ Fox    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --  &nbsp; Anothe
 AVEA   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; A offline assistent that learn and develop on its own<br>
 Amphithere &nbsp;--  &nbsp; Just a name to all of my bash command<br>
 INGIS   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   --  &nbsp; A survival multiplayer game<br><br>
-etc (end of thking copacity)<br><br>
+etc (end of thking copacity)<br>
 ### NOTE frome me
-
-BTW am just a newbie learning from other pros.<br><br>
-Well there are the languages that i learned recently -<br><Br>
+BTW am just a newbie, learning from other pros. current trying to get into others project so i can improve my skills.<br><br>
+<b>there are the languages that i know</b> -<br><Br>
 BASH<br>
 HTML<br>
 XML<br>
