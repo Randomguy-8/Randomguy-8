@@ -6,4 +6,4 @@ well That is enough for <i>my</i> introduction but still...if you willing then:
 <br>
 <b>Any particular aim?</b> :naah! just get going and be happy.
 <br>
-Any project ongoing :yup alot of want to know? || here||
+Any project ongoing :yup alot of want to know? ||here||
