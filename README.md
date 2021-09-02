@@ -1,4 +1,4 @@
-![Head-banner](https://github.com/nakulsharma9/nakulsharma9/blob/main/images/banner.jpg)
+![Head-banner](https://github.com/nakulsharma9/nakuob/main/images/banner.jpg)
 
 
 
