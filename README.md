@@ -15,14 +15,10 @@ Amphithere &nbsp;--  &nbsp; Just a name to all of my bash command<br>
 INGIS   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   --  &nbsp; A survival multiplayer game<br>
 ### Important
 BTW am just a <i>newbie</i>, learning from other <i>pros</i>. current trying to get into others project so i can improve my skills.<br><br>
-<b>There are the languages that i know</b>-<br>
+<b>programing languages that i know</b>-<br>
 BASH<br>
 HTML<br>
 XML<br>
 CSS<br><br>
-<b>And these are which am still learning </b>-<br>
-Java<br>
-php<br>
-C<br>
 
-Hopefull thats it for my profile &nbsp; c'ya!
+Hopefull thats it! have a <b>good day</b> and bye ;)
