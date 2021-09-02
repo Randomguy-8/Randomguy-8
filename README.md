@@ -12,9 +12,9 @@ AVEA   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; A offline assi
 ### Important
 BTW am just a <i>newbie</i>, learning from other <i>pros</i>. current trying to get into others project so i can improve my skills.<br><br>
 <b>programing languages that i know</b>-<br>
-BASH<br>
-HTML<br>
-XML<br>
-CSS<br><br>
-
+<img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/html.svg" width="40">
+<img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/css.svg" width="40">
+<img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/java.svg" width="40">
+<img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/c.svg" width="40">
+<img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/bash.svg" width="40"><br><br>
 Hopefull thats it! have a <b>good day</b> and bye ^-^
