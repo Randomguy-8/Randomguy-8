@@ -2,7 +2,6 @@
 
 
 
-well That is enough for <i>my</i> introduction 
 #### Things that you may want to know
 <b>Why here?</b> - I wished to make some cool stuff so i needed a platform that manage all that so i choosed github! 
 <br> But still github bully in some places so i make my own f*cking simple page that can mange all my Drive, Mega and other backup links.<br><br>
@@ -21,4 +20,4 @@ HTML<br>
 XML<br>
 CSS<br><br>
 
-Hopefull thats it! have a <b>good day</b> and bye ;)
+Hopefull thats it! have a <b>good day</b> and bye ^-^
