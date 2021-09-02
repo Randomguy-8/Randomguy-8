@@ -1,4 +1,4 @@
-![Head-banner](https://github.com/nakulsharma9/nakuob/main/images/banner.jpg)
+![Head-banner](https://github.com/Randomguy-8/Randomguy-8/Hi, am harish Kumar.png)
 
 
 
