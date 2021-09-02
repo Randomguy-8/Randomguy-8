@@ -12,9 +12,8 @@ Oxygen &nbsp; &nbsp; &nbsp; &nbsp;  -- &nbsp;  A Android OS<br>
 Fox    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --  &nbsp; Another OS based on Android Go<br>
 AVEA   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; A offline assistent that learn and develop on its own<br>
 Amphithere &nbsp;--  &nbsp; Just a name to all of my bash command<br>
-INGIS   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   --  &nbsp; A survival multiplayer game<br><br>
-etc (end of thinking copacity)<br>
-### NOTE frome me
+INGIS   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   --  &nbsp; A survival multiplayer game<br>
+### Important
 BTW am just a <i>newbie</i>, learning from other <i>pros</i>. current trying to get into others project so i can improve my skills.<br><br>
 <b>There are the languages that i know</b>-<br>
 BASH<br>
