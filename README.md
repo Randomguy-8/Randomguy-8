@@ -8,7 +8,7 @@ Fox    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --  &nbsp; An And
 AVEA   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; A offline assistent.<br>
 
 <b>BTW</b> am a <i>noob-skilled</i> person, so still learning from other <i>pros</i>. current am trying to get into others project so i can improve my skills.<br><br>
-<p align="center"><b>programing languages that i know</b><br><br>
+<p align="center"><b>programing languages that i know</b><br>
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/html.svg" width="40">
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/css.svg" width="40">
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/java.svg" width="40">
