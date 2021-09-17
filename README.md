@@ -1,7 +1,7 @@
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/photo.png" width="800">
 
 ### Things that you dont know about me-
-<b>Why am here at first place?</b> - well i am a programmer and someone suggest me to use Github and just like that i tried and it proved to be useful, Thx bruda!<br><br>
+<b>Why am here at first place?</b> - well I am a programmer and someone suggested me to use Github and just like that i tried and it proved to be useful, Thx bruda!<br><br>
 <b>Have any particular aim?</b> - naah! just keep countributing in the project of life and be happy.<br><br>
 <b>Projects, on am currently aiming...</b><br>
 Fox    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --  &nbsp; An Android OS.<br>
