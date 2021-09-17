@@ -2,7 +2,7 @@
 
 ### Things that you dont know about me-
 <b>Why am here at first place?</b> - well I am a programmer and someone suggested me to use Github and just like that i tried and it proved to be useful, Thx bruda!<br><br>
-<b>Have any particular aim?</b> - naah! just keep countributing in the project of life and be happy.<br><br>
+<b>Have any particular aim?</b> - naah! just keep countributing to the project of life and be happy.<br><br>
 <b>Projects, on am currently aiming...</b><br>
 Fox    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --  &nbsp; An Android OS.<br>
 AVEA   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; A offline assistent.<br>
