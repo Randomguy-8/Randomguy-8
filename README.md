@@ -7,7 +7,7 @@
 Fox    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --  &nbsp; An Android OS.<br>
 AVEA   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; A offline assistent.<br>
 
-<b>BTW</b> am just a <i>novice</i>, so still learning from other <i>pros</i>. current am trying to get into others project so i can improve my skills.<br><br>
+<b>BTW</b> am just a <i>novice</i>, so am still learning from other <i>pros</i>. currently am trying to get into other projects so i can improve my skills.<br><br>
 <p align="center"><b>programing languages that i know</b><br>
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/html.svg" width="40">
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/css.svg" width="40">
