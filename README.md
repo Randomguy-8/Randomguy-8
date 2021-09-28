@@ -5,8 +5,8 @@
 <b>Skills:</b> programming and cartoon artist.<br><br> 
 <b>Have any particular aim?</b> - naah! just eat, beat, sleep, repeat!<br><br>
 <b>Projects, on am currently aiming...</b><br>
-Fox    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --  &nbsp; An Android OS.<br>
-AVEA   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; A offline assistent.<br>
+Patema    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --  &nbsp; An Android OS.<br>
+Niki   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; A offline assistent.<br>
 
 <b>BTW</b> am just a <i>novice</i>, so am still learning from other <i>pros</i>. currently am trying to get into other projects so i can improve my skills.<br><br>
 <p align="center"><b>programing languages that i know</b><br>
