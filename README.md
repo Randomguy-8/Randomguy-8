@@ -8,7 +8,7 @@
 Patema &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; Android OS.<br>
 Niki   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; Offline text based assistant.<br>
 
-<b>BTW</b> am just a <i>novice</i>, so still learning from other <i>pros</i>. currently trying to get into other projects so that I can improve my skills.<br><br>
+<b>BTW</b> am currently in <i>Android</i> and <i>electronic arts<i/>stuff and still a <i>novice</i> .Am mostly <i>active</i> in discords(technical servers) and Github, so that I can improve my skills by learning from other pros and experts.<br><br>
 <p align="center"><b>programing languages that i know</b><br>
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/html.svg" width="40">
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/css.svg" width="40">
