@@ -1,7 +1,9 @@
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/photo.png" width="800">
 
-<b>Why am here in the first place?</b> - well I am a programmer and someone suggested me to use Github and just like that i tried and it proved to be useful, Thx bruda!<br><br>
-<b>Have any particular aim?</b> - naah! just keep countributing to the project of life and be happy.<br><br>
+<b>Name:</b> Harish Kumar<br>
+<b>Age:</b> 15<br>
+<b>Skills:</b> programming and cartoon artist.<br><br> 
+<b>Have any particular aim?</b> - naah! just eat, sleep, beat, repeat!<br><br>
 <b>Projects, on am currently aiming...</b><br>
 Fox    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --  &nbsp; An Android OS.<br>
 AVEA   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; A offline assistent.<br>
