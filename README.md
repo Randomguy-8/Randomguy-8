@@ -2,7 +2,7 @@
 
 <b>Name:</b> Harish Kumar<br>
 <b>Age:</b> 15<br>
-<b>Skills:</b> programming and cartoon artist.<br><br> 
+<b>Skills:</b> programmer and cartoon artist(amateur skills).<br><br> 
 <b>Have any particular aim?</b> - naah! just eat, beat, sleep, repeat!<br><br>
 <b>Projects, on am currently aiming...</b><br>
 Patema &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; An Android OS.<br>
