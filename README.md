@@ -3,7 +3,7 @@
 <b>Name:</b> Harish Kumar<br>
 <b>Age:</b> 15<br>
 <b>Skills:</b> programming and cartoon artist.<br><br> 
-<b>Have any particular aim?</b> - naah! just eat, sleep, beat, repeat!<br><br>
+<b>Have any particular aim?</b> - naah! just eat, beat, sleep, repeat!<br><br>
 <b>Projects, on am currently aiming...</b><br>
 Fox    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --  &nbsp; An Android OS.<br>
 AVEA   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; A offline assistent.<br>
