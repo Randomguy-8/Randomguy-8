@@ -1,6 +1,5 @@
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/photo.png" width="800">
 
-### Things that you dont know about me-
 <b>Why am here in the first place?</b> - well I am a programmer and someone suggested me to use Github and just like that i tried and it proved to be useful, Thx bruda!<br><br>
 <b>Have any particular aim?</b> - naah! just keep countributing to the project of life and be happy.<br><br>
 <b>Projects, on am currently aiming...</b><br>
