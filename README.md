@@ -15,4 +15,4 @@ Niki   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; Offline text b
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/java.svg" width="40">
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/c.svg" width="40">
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/bash.svg" width="40"></p><br><br>
-Hopefull thats it! have a <b>good-day biscuits</b>🍪 and bye ;)
+## Hopefull thats it! have a <b>good-day biscuits</b> 🍪 and bye ;)
