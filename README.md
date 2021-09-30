@@ -2,7 +2,7 @@
 
 <b>Name:</b> Harish Kumar<br>
 <b>Age:</b> 15<br>
-<b>Skills:</b> programmer and cartoon artist (amateur).<br><br> 
+<b>Skills:</b> programmer .<br><br> 
 <b>Have any particular aim?</b> - naah! just eat, beat, sleep, repeat!<br><br>
 <b>Projects, on am currently aiming...</b><br>
 Patema &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; Android OS.<br>
@@ -16,4 +16,4 @@ Niki   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; Offline text b
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/c.svg" width="40">
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/bash.svg" width="40"></p><br><br>
 
-### Hopefull thats it! have a <b>good-day biscuits</b> 🍪 and bye ;)
+### Hopefull thats it! have a <b>goodday biscuits</b> 🍪 and bye ;)
