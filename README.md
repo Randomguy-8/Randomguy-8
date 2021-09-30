@@ -16,4 +16,4 @@ Niiki   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; Offline text 
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/c.svg" width="40">
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/bash.svg" width="40"></p><br><br>
 
-### Hopefull thats it! have a <b>goodday biscuits</b> 🍪 ;)
+### Well thats it! have a <b>goodday biscuits</b> 🍪 ;)
