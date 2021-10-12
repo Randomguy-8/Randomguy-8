@@ -1,7 +1,7 @@
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/photo.png" width="800">
 
 <b>Name:</b> Harish Kumar<br>
-<b>Age:</b> 15<br>
+<b>Age:</b> 16<br>
 <b>Skills:</b> programmer.<br><br> 
 <b>Have any particular aim?</b> - naah! just eat, beat, sleep, repeat!<br><br>
 <b>Projects, on am currently aiming...</b><br>
