@@ -3,7 +3,6 @@
 <b>Name:</b> Harish Kumar<br>
 <b>Age:</b> 16<br>
 <b>Skills:</b> programmer.<br><br> 
-<b>Have any particular aim?</b> - naah! just eat, beat, sleep, repeat!<br><br>
 <b>Projects, on am currently aiming...</b><br>
 Patema &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; Android OS.<br>
 Niiki   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; Offline text based assistant.<br>
