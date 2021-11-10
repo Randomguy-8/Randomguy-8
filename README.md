@@ -4,7 +4,7 @@
 <b>Age:</b> 16<br>
 <b>Skills:</b> programming.<br><br> 
 <b>Projects, on am currently aiming...</b><br>
-Patema &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; Android OS.<br>
+Patema &nbsp; &nbsp; &nbsp; &nbsp; --  &nbsp; Operating System.<br>
 Niiki   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; Offline text based assistant.<br>
 
 <b>BTW</b> am currently in Android and Electronic arts stuff and still a <i>novice</i> .Mostly active on Discords, Telegram(technical servers) and Github, Trying to improve my skills by learning from other pros and experts.<br><br>
