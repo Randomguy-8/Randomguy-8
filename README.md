@@ -3,10 +3,6 @@
 <b>Name:</b> Harish Kumar<br>
 <b>Age:</b> 16<br>
 <b>Skills:</b> programming.<br><br> 
-<b>Projects, on am currently aiming...</b><br>
-Patema &nbsp; &nbsp; &nbsp; &nbsp; --  &nbsp; Operating System.<br>
-Niiki   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--  &nbsp; Offline text based assistant.<br>
-
 <b>BTW</b> am currently in Android and Electronic arts stuff and still a <i>novice</i> .Mostly active on Discords, Telegram(technical servers) and Github, Trying to improve my skills by learning from other pros and experts.<br><br>
 <p align="center"><b>programing languages that i know</b><br>
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/html.svg" width="40">
