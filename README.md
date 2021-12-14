@@ -7,7 +7,7 @@
 <b>💻 I love to make programs.<br>
  🎨 I love to make Digital art.<br>
  🏐 I love to play volleyball.<br>
- 😼 I love to make mod of closed source application.<b>*</b>for fun!<br><br>
+ 😼 I love to make mod of closed source application.*</b>for fun!<br><br>
   
 <b>BTW</b> am currently learning <b>c#</b> and am still a <i>novice</i>, Trying to improve my skills by learning from other experts out there...<br><br>
 <p align="center"><b>programing languages that i know</b><br>
