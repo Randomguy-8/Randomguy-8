@@ -1,4 +1,4 @@
-<img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/photo.png" width="750">
+<img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/photo.png" width="790">
 
 <b>Name:</b> Harish Kumar<br>
 <b>Age:</b> 16<br>
