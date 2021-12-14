@@ -1,6 +1,6 @@
-<p align="center">![Head-banner](https://github.com/Randomguy-8/Randomguy-8/blob/main/photo.png)</p>
+<p align="center"><img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/photo.png"></p>
 
-<img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/photo.png">
+
 
 <b>Name:</b> Harish Kumar<br>
 <b>Age:</b> 16<br>
