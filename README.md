@@ -9,7 +9,7 @@
  🏐 I love to play volleyball.<br>
  😼 I love to make mod of closed source application.<b>*</b>for fun!<br><br>
   
-<b>BTW</b> am currently in Android and Electronic arts stuff and still a <i>novice</i> .Mostly active on Discords, Telegram(technical servers) and Github, Trying to improve my skills by learning from other pros and experts.<br><br>
+<b>BTW</b> am currently learning <b>c#</> and am still a <i>novice</i>, Trying to improve my skills by learning from other experts out there...<br><br>
 <p align="center"><b>programing languages that i know</b><br>
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/html.svg" width="40">
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/css.svg" width="40">
