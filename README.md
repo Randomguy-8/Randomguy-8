@@ -17,4 +17,4 @@
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/c.svg" width="40">
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/bash.svg" width="40"></p><br><br>
 
-#### Thats it! have a <b>goodday biscuit</b>🍪 ;)
+#### Thats it! have a goodday biscuit🍪 ;)
