@@ -7,7 +7,7 @@
 <b>💻 I love to make programs.<br>
  🎨 I love to make Digital art.<br>
  🏐 I love to play volleyball.<br>
- 😼 I love to make mod out of closed-source programs.*</b><br>
+ 😼 I love to make mod out of closed-source programs.</b><br>
   
 <b>BTW</b> am currently learning <b>c#</b> and still a <i>novice</i>, Trying to improve skills by learning from other cool and expert people out there...<br><br>
 <p align="center"><b>programing languages that i know</b><br>
@@ -17,4 +17,4 @@
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/c.svg" width="40">
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/bash.svg" width="40"></p><br><br>
 
-#### Well, thats it! have a <b>goodday biscuit</b>🍪 ;)
+#### Thats it! have a <b>goodday biscuit</b>🍪 ;)
