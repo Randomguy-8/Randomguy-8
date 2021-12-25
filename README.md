@@ -1,5 +1,6 @@
+<br>
 <p align="center"><img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/photo.png"></p>
-
+<br>
 
 
 <b>Name:</b> Harish Kumar<br>
