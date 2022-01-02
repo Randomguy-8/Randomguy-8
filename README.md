@@ -1,5 +1,5 @@
 <br>
-<p align="center"><img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/photo.png" width="800"></p>
+<p align="center"><img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/photo.png"></p>
 <br>
 
 
