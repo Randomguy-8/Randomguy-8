@@ -1,4 +1,3 @@
-<br>
 <h1 align="center"><img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/photo.png"></h1>
 <p align="center"> <b>A.K.A:</b> Randomguy | <b>Age:</b> 16<br> </p><br>
 
