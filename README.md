@@ -7,7 +7,7 @@
  😼 I love to mod outdated softwares.</b></p><br>
 
 <p align="center"><b>BTW</b> currently learning C++ and i am still a <ins>novice</ins>, Trying to improve skills by learning from other cool and expert people out there...<br><br>
- <ins><b>programing languages that i know</b></ins><br>
+<b>programing languages that i know</b><br>
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/html.svg" width="40">
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/css.svg" width="40">
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/java.svg" width="40">
