@@ -6,7 +6,7 @@
  🏐 I love to play volleyball. &nbsp;  
  😼 I love to mod outdated softwares.</b></p><br>
 
-<p align="center"><b>BTW</b> currently learning C++ and i am still a novice, Trying to improve skills by learning from cool and expert people out there...<br><br>
+<p align="center"><b>BTW</b> currently learning C++ and i am still a novice, Improve skills by learning from cool and expert people out there...<br><br>
 <b>programing languages that i know</b><br>
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/html.svg" width="40">
 <img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/css.svg" width="40">
