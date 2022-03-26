@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/Randomguy-8/Randomguy-8/blob/main/photo.png"></h1>
-<p align="center"> Random Guy &nbsp;| 🇮🇳 |&nbsp; 16 YO<br> </p><br>
+<p align="center"> Random Guy | 16 YO<br> </p><br>
 
  <p align="center"><b>💻 I love to make programs. &nbsp;  
  🎨 I love to make Digital art.<br>
