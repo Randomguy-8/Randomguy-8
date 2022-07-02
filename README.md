@@ -7,8 +7,8 @@
  🏐 volleyball.
  😼 Mod outdated softwares.</b></p><br>
 
-<p align="center"><strong> BTW I Use Arch.</strong> <br><br>
-<b>programing languages that i know</b><br>
+<p align="center"> BTW I Use Arch.<br><br>
+<b>Programming languages i know</b><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40">
